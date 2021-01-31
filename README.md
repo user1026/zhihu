@@ -1,19 +1,3 @@
-# zhihu
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+使用别人提供的知乎接口编写的知乎日报
+具体功能为
+   每日知乎日报列表及其详情
